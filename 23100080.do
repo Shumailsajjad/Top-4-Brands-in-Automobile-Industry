@@ -1,5 +1,5 @@
 *Name: Group 1
-*Purpose: Group Project
+*Purpose: Project
 *Date: 4/10/2022
 
 	/*
